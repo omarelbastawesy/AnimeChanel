@@ -4,8 +4,6 @@
   I use in this website HTML, CSS & JS .
   I use liberary for font icon it's font awesome . 
   
-  this is free server : https://omarelbastawesy.github.io/AnimeChanel/
-  
   its a style
   
    ## landing:
