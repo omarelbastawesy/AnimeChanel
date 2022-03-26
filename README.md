@@ -7,7 +7,8 @@
   this is free server : https://omarelbastawesy.github.io/AnimeChanel/
   
   its a style
-    ## landing:
+  
+   ## landing:
    ![landing](https://user-images.githubusercontent.com/102428312/160249887-e71db960-1b30-4209-ba42-2e6715c0d2b0.png)
    
    ## watched:
